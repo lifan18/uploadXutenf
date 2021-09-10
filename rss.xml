@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Typhon</title>
+  
+  
+  <link href="/rss.xml" rel="self"/>
+  
+  <link href="flystar233.github.io/"/>
+  <updated>2021-03-19T08:11:46.909Z</updated>
+  <id>flystar233.github.io/</id>
+  
+  <author>
+    <name>Typhon</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mysql 使用</title>
+    <link href="flystar233.github.io/2021/03/17/mysql/"/>
+    <id>flystar233.github.io/2021/03/17/mysql/</id>
+    <published>2021-03-17T06:51:36.000Z</published>
+    <updated>2021-03-19T08:11:46.909Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;数据库操作&quot;&gt;&lt;a href=&quot;#数据库操作&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="database" scheme="flystar233.github.io/categories/database/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>缺失值&amp;异常值处理</title>
+    <link href="flystar233.github.io/2021/03/15/missing-data/"/>
+    <id>flystar233.github.io/2021/03/15/missing-data/</id>
+    <published>2021-03-15T07:40:06.000Z</published>
+    <updated>2021-03-15T09:59:27.434Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;缺失值处理&quot;&gt;&lt;a href=&quot;#缺失值处理&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="flystar233.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用 siuba 处理 DataFrame</title>
+    <link href="flystar233.github.io/2021/03/15/siuba/"/>
+    <id>flystar233.github.io/2021/03/15/siuba/</id>
+    <published>2021-03-15T02:08:34.000Z</published>
+    <updated>2021-03-15T03:27:55.219Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;siuba 是一个语法上类似 dplyr 的 python包，能够用链式语法处理
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="flystar233.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mongodb 数据库使用</title>
+    <link href="flystar233.github.io/2021/02/25/mongodb/"/>
+    <id>flystar233.github.io/2021/02/25/mongodb/</id>
+    <published>2021-02-25T07:21:11.000Z</published>
+    <updated>2021-02-26T09:42:27.511Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;配置&quot;&gt;&lt;a href=&quot;#配置&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="database" scheme="flystar233.github.io/categories/database/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>线性回归</title>
+    <link href="flystar233.github.io/2020/12/09/regression/"/>
+    <id>flystar233.github.io/2020/12/09/regression/</id>
+    <published>2020-12-09T03:01:57.000Z</published>
+    <updated>2020-12-09T09:43:23.168Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一般线性回归模型（LM）&quot;&gt;&lt;a href=&quot;#一般线性回归模型（LM）&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="statistics" scheme="flystar233.github.io/categories/statistics/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>群体遗传学统计量计算</title>
+    <link href="flystar233.github.io/2020/09/28/population/"/>
+    <id>flystar233.github.io/2020/09/28/population/</id>
+    <published>2020-09-28T09:05:42.000Z</published>
+    <updated>2020-09-29T02:48:56.357Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Fst-amp-dxy-amp-pi-single&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="bioinfo" scheme="flystar233.github.io/categories/bioinfo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用 treemix 进行基因渗入分析 &amp; 使用 hierfstat 计算成对 Fst</title>
+    <link href="flystar233.github.io/2020/09/07/treemix/"/>
+    <id>flystar233.github.io/2020/09/07/treemix/</id>
+    <published>2020-09-07T02:30:27.000Z</published>
+    <updated>2021-03-15T06:45:57.920Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;treemix
+        
+      
+    
+    </summary>
+    
+      <category term="bioinfo" scheme="flystar233.github.io/categories/bioinfo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>全基因组比对策略</title>
+    <link href="flystar233.github.io/2020/08/31/genome-alignment/"/>
+    <id>flystar233.github.io/2020/08/31/genome-alignment/</id>
+    <published>2020-08-31T03:18:24.000Z</published>
+    <updated>2021-03-15T06:46:49.392Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;两个基因组的比对主要在于大片段序列的比对正确性，这和小片段比对（blast）、多序列比对（ma
+        
+      
+    
+    </summary>
+    
+      <category term="bioinfo" scheme="flystar233.github.io/categories/bioinfo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>数据填补</title>
+    <link href="flystar233.github.io/2020/08/07/imputation/"/>
+    <id>flystar233.github.io/2020/08/07/imputation/</id>
+    <published>2020-08-07T02:27:06.000Z</published>
+    <updated>2020-08-31T07:47:50.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在数据收集的时候，不可避免的会有些样本的表型（特征）会丢失或者无法测量，如果想保证数据表的完整
+        
+      
+    
+    </summary>
+    
+      <category term="bioinfo" scheme="flystar233.github.io/categories/bioinfo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python进程池使用</title>
+    <link href="flystar233.github.io/2020/07/23/python-Process/"/>
+    <id>flystar233.github.io/2020/07/23/python-Process/</id>
+    <published>2020-07-23T02:27:06.000Z</published>
+    <updated>2021-03-15T06:47:22.727Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;python由于有全局锁的原因，多线程无法调用多核CPU。所以在计算密集型的程序中使用多进程是
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="flystar233.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+</feed>
